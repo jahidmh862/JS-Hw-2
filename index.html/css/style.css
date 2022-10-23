@@ -450,7 +450,8 @@ footer{
 }
 
 #sidemenu ul li a:hover{
-    background: #67671f;
+    background: #888830;
     border-radius: 20%;
     padding: 8px;
+    color:rgb(11, 116, 111);
 }
